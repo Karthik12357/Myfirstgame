@@ -2,6 +2,6 @@
 Installation of pygame on your machine to run my game is essential. It can be installed if you have python installed previously.
 The command is 
 $ pip install pygame
-Then you can download the repo as a zip file , unzip the file, run the code to play my game.
+Then you can clone the file on your computer using any way you want(VS code has been tested by me and works1005 percent fine on it after cloning).But it requires GIT to be installed.
 Thanks for downloading.
-Please contact me on Discord- #MKGamer4164
+
