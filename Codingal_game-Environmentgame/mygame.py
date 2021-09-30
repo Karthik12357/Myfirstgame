@@ -819,7 +819,7 @@ def restart_menu_loop():
                     player_rect.x = 25
                     player_rect.y = 50
                     score=0
-                    game_map = load_map('Codingal_game-Environmentgame/map')
+                    game_map = load_map('Codingal_game-Environmentgame/files/map')
                     menu_loop()
                 
             else:
