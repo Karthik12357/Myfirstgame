@@ -13,7 +13,7 @@ pygame.mixer.pre_init(44100, -16, 2, 512)#mixer
 pygame.init()  # initiate pygame
 pygame.mixer.set_num_channels(64)
 
-pygame.display.set_caption('Environment Game')  # set the window name
+pygame.display.set_caption('Environmentio')  # set the window name
 
 
 
